@@ -1,2 +1,2 @@
-# java-basico-dio
+# java-basic-dio
 Java - basic content
